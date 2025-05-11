@@ -35,9 +35,9 @@ Simulate a phishing attack using the **Social Engineering Toolkit (SET)** in a l
 
 ## 📄 **Deliverables:**
 
-**`Phishing_Simulation_Report_SET.pdf`** – Full report with screenshots, steps, and recommendations.
+**<a> href = "/Sparshagarwal0110/FUTURE_CS_01/blob/main/Task2%20Report.pdf"</a>Task2 Report.pdf`** – Full report with screenshots, steps, and recommendations.
 
 ## 📝 **Author:**  
 **Sparsh** – Cyber Security Intern  
-🔗 [LinkedIn](#)  
-💻 *Future Interns Program*
+🔗 <a href="https://www.linkedin.com/in/sparsh-agarwal0110/" rel="nofollow">LinkedIn</a>(#)  
+💻 <a href="https://www.linkedin.com/company/future-interns/" rel="nofollow">Future Interns</a>
