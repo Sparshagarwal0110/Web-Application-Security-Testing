@@ -35,7 +35,7 @@ Simulate a phishing attack using the **Social Engineering Toolkit (SET)** in a l
 
 ## 📄 **Deliverables:**
 
-<a href="/Sparshagarwal0110/FUTURE_CS_01/blob/main/Task2_Report.pdf"><code>Task2_Report.pdf</code></a> – Full report with screenshots, steps, and recommendations.
+[`Task2_Report.pdf`](./Task2_Report.pdf) – Full report with screenshots, steps, and recommendations.
 
 ## 📝 **Author:**  
 **Sparsh** – Cyber Security Intern  
