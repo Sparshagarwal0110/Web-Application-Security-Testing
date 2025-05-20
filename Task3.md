@@ -78,8 +78,7 @@ The assessment revealed moderate risk factors that can be mitigated through stro
 ---
 
 ## 📁 Files Included
-- `Updated_WiFi_Security_Assessment_Report.pdf` – Final report
-- `/screenshots` – Evidence from tools (Aircrack-ng, Nmap, Wireshark)
+- `[`Task3_Report.pdf`](./Task3_Report.pdf) – Final report
 
 ---
 
