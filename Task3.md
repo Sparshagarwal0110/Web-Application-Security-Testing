@@ -78,7 +78,7 @@ The assessment revealed moderate risk factors that can be mitigated through stro
 ---
 
 ## 📁 Files Included
-- `[`Task3_Report.pdf`](./Task3_Report.pdf) – Final report
+- [`Task3_Report.pdf`](./Task3_Report.pdf) – Final report
 
 ---
 
