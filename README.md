@@ -1,6 +1,4 @@
-# 🛡️ FUTURE_CS_01 – Web Application Security Testing
-
-## 📚 Internship Task – Future Interns (Cyber Security Track)
+# 🛡️ Web Application Security Testing
 
 ### 🔍 Objective:
 Conduct a web application security assessment on OWASP Juice Shop to identify and report vulnerabilities like:
